@@ -1,0 +1,46 @@
+{
+  "slug": "flechettes-electroniques-ligues-bars-france",
+  "title": "Fléchettes électroniques : comment la « soft » a conquis les bars français",
+  "seo_title": "Fléchettes électroniques en France : ligues de bars, finales nationales, règles",
+  "description": "Pointe souple, cible qui compte les points, ligues entre bars et finales nationales géantes : les fléchettes électroniques séduisent de plus en plus de joueurs en France. Tout ce qu'il faut savoir.",
+  "category": "flechettes",
+  "tags": [
+    "guide",
+    "soft-tip",
+    "france"
+  ],
+  "type": "guide",
+  "date": "2026-10-05T08:30:00+02:00",
+  "image": "/images/img-flechette-bar.webp",
+  "image_alt": "Pistes de fléchettes électroniques au Rolly's Pub",
+  "body": "<p>Ce sont deux mondes qui partagent une même cible. D'un côté, les fléchettes <strong>traditionnelles</strong> (« steel »), avec leur pointe en acier et leur cible en sisal, celles du Championnat du monde à l'Alexandra Palace. De l'autre, les fléchettes <strong>électroniques</strong> (« soft »), à pointe souple, qui ont envahi les bars. Et c'est cette seconde famille qui connaît en France une croissance spectaculaire.</p>\n\n<h2>Ce qui change avec l'électronique</h2>\n<ul>\n<li><strong>La pointe</strong> est en plastique, souple, et se plante dans les petits trous d'une cible en plastique. Plus sûre, elle convient aux lieux publics.</li>\n<li><strong>La cible compte les points</strong> : plus besoin d'arbitre ni de calcul mental. Elle affiche le score, propose les finitions et enchaîne les joueurs.</li>\n<li><strong>Les jeux sont nombreux</strong> : 301, 501, cricket et des dizaines de variantes programmées dans la borne.</li>\n<li><strong>La distance</strong> de lancer est généralement un peu plus longue qu'en steel (où elle est de 2,37 m) : elle est indiquée au sol par une ligne.</li>\n</ul>\n\n<h2>Un essor porté par les ligues et la télé</h2>\n<p>Selon un article de Clubic publié en septembre, la France compterait environ <strong>12 000 joueurs</strong> de fléchettes électroniques, une pratique dopée par la diffusion des grands tournois à la télévision. Le principe des compétitions est simple : chaque bar équipé peut engager des équipes dans des <strong>championnats locaux</strong>, en individuel, en doublette ou par équipes. Les meilleurs se qualifient ensuite pour des phases nationales.</p>\n<p>Le réseau <strong>Phoenix France Compétition</strong> organise ainsi des championnats via les exploitants de cibles partenaires. Ses <strong>Finales nationales</strong> se sont tenues du 1er au 6 juin 2026 au Parc des expositions de Grand Poitiers, avec plus de <strong>7 000 joueurs</strong> annoncés et un tournoi gratuit pour les moins de 16 ans. Les opens se multiplient aussi : l'Open Z'Attack de Loué, dans la Sarthe, a réuni 400 joueurs début septembre, dont une centaine de femmes.</p>\n\n<div class=\"encadre\">\n<p><strong>Et le steel ?</strong> Les fléchettes traditionnelles sont encadrées par la <strong>Fédération française de darts</strong> (FFD), qui organise notamment la Coupe de France, les Masters nationaux et l'Open Fédéral, prévu cette année à Remiremont les 24 et 25 octobre. Le meilleur Français du circuit professionnel PDC est Thibault Tricole.</p>\n</div>\n\n<h2>Bien débuter sur cible électronique</h2>\n<ol>\n<li><strong>Le placement</strong> : pied avant sur la ligne, corps légèrement de profil, épaule et coude alignés avec la cible.</li>\n<li><strong>Le geste</strong> : seul l'avant-bras bouge, le coude reste fixe, puis accompagnez le lancer vers la cible.</li>\n<li><strong>Le rythme</strong> : lancez vos trois fléchettes sans pause excessive, en gardant le même geste.</li>\n<li><strong>Le jeu</strong> : commencez par du 301 en simple out, puis passez au cricket, plus tactique, et enfin au 501 en double out.</li>\n</ol>\n\n<h2>Jouer à Nice</h2>\n<p>Le Rolly's Pub &amp; Games, à Nice Saint-Isidore, compte <strong>5 pistes de fléchettes électroniques</strong> à thème. Elles se <a href=\"/flechettes-nice\">réservent à l'heure</a>, fléchettes fournies, et l'équipe vous aide à paramétrer la partie. Idéal pour s'entraîner avant de se lancer en compétition, ou simplement pour une soirée entre amis.</p>",
+  "faq": [
+    {
+      "q": "Quelle est la différence entre fléchettes électroniques et traditionnelles ?",
+      "a": "Les électroniques (soft) ont une pointe en plastique et se jouent sur une cible qui compte automatiquement les points. Les traditionnelles (steel) ont une pointe en acier et se jouent sur une cible en sisal, avec comptage manuel."
+    },
+    {
+      "q": "Peut-on faire de la compétition en fléchettes électroniques ?",
+      "a": "Oui : des championnats entre bars sont organisés en individuel, en doublette et par équipes, avec des phases locales puis nationales."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Clubic — La télévision fait exploser la pratique des fléchettes électroniques en France (07/09/2026)",
+      "url": "https://www.clubic.com/actualite-628444-la-television-est-en-train-de-faire-exploser-la-pratique-des-flechettes-electroniques-en-france.html"
+    },
+    {
+      "title": "Phoenix France Compétition",
+      "url": "https://www.phoenixfrancecompetition.fr/"
+    },
+    {
+      "title": "JDS — Finales nationales de fléchettes électroniques à Poitiers",
+      "url": "https://www.jds.fr/poitiers/sports/matchs/finales-nationales-de-flechettes-electroniques-a-poitiers-1461505_A"
+    },
+    {
+      "title": "Fédération française de darts — Calendrier",
+      "url": "https://www.ffdarts.fr/calendrier"
+    }
+  ],
+  "updated": "2026-10-05T08:30:00+02:00"
+}

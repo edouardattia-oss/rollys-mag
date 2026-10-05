@@ -1,0 +1,178 @@
+{
+  "updated": "2026-10-05",
+  "events": [
+    {
+      "start": "2026-10-09",
+      "end": "2026-10-11",
+      "name": "Swiss Darts Trophy (European Tour)",
+      "sport": "Fléchettes",
+      "place": "Bâle (Suisse)"
+    },
+    {
+      "start": "2026-10-15",
+      "end": "2026-10-18",
+      "name": "Reyes Cup",
+      "sport": "Pool",
+      "place": "Manille (Philippines)",
+      "holder": "Équipe Asie"
+    },
+    {
+      "start": "2026-10-16",
+      "end": "2026-10-18",
+      "name": "Dutch Darts Championship (European Tour)",
+      "sport": "Fléchettes",
+      "place": "Maastricht (Pays-Bas)"
+    },
+    {
+      "start": "2026-10-18",
+      "end": "2026-10-25",
+      "name": "Northern Ireland Open",
+      "sport": "Snooker",
+      "place": "Belfast",
+      "holder": "Jack Lisowski"
+    },
+    {
+      "start": "2026-10-20",
+      "end": "2026-10-24",
+      "name": "Philippines Open",
+      "sport": "Pool",
+      "place": "Quezon City (Philippines)",
+      "holder": "David Alcaide"
+    },
+    {
+      "start": "2026-10-22",
+      "end": "2026-10-25",
+      "name": "Championnat d'Europe PDC",
+      "sport": "Fléchettes",
+      "place": "Dortmund (Allemagne)",
+      "holder": "Gian van Veen"
+    },
+    {
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "name": "Open Fédéral FFD",
+      "sport": "Fléchettes",
+      "place": "Remiremont (Vosges)",
+      "url": "https://www.ffdarts.fr/calendrier"
+    },
+    {
+      "start": "2026-10-30",
+      "end": "2026-11-01",
+      "name": "Tournoi national 5 quilles Masters (FFB)",
+      "sport": "Billard français",
+      "place": "Ronchin (Nord)"
+    },
+    {
+      "start": "2026-10-31",
+      "end": "2026-11-07",
+      "name": "International Championship",
+      "sport": "Snooker",
+      "place": "Nanjing (Chine)",
+      "holder": "Wu Yize"
+    },
+    {
+      "start": "2026-11-02",
+      "end": "2026-11-08",
+      "name": "Coupe du monde de 3 bandes (UMB)",
+      "sport": "Billard français",
+      "place": "Corée du Sud"
+    },
+    {
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "name": "Tournoi national 1 bande Masters (FFB)",
+      "sport": "Billard français",
+      "place": "Lunel (Hérault)"
+    },
+    {
+      "start": "2026-11-09",
+      "end": "2026-11-15",
+      "name": "Champion of Champions",
+      "sport": "Snooker",
+      "place": "Leicester",
+      "holder": "Mark Selby"
+    },
+    {
+      "start": "2026-11-11",
+      "end": "2026-11-15",
+      "name": "Universal Open",
+      "sport": "Pool",
+      "place": "Hô-Chi-Minh-Ville (Vietnam)"
+    },
+    {
+      "start": "2026-11-14",
+      "end": "2026-11-22",
+      "name": "Grand Slam of Darts",
+      "sport": "Fléchettes",
+      "place": "Wolverhampton",
+      "holder": "Luke Littler"
+    },
+    {
+      "start": "2026-11-17",
+      "end": "2026-11-21",
+      "name": "Universal Open",
+      "sport": "Pool",
+      "place": "Bangkok (Thaïlande)"
+    },
+    {
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "name": "Tournois nationaux de blackball (FFB)",
+      "sport": "Billard anglais",
+      "place": "Albi (Tarn)"
+    },
+    {
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "name": "Players Championship Finals",
+      "sport": "Fléchettes",
+      "place": "Minehead",
+      "holder": "Luke Littler"
+    },
+    {
+      "start": "2026-11-27",
+      "end": "2026-11-30",
+      "name": "Mosconi Cup",
+      "sport": "Pool",
+      "place": "Orlando (États-Unis)",
+      "holder": "Europe"
+    },
+    {
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "name": "Coupe de la Ligue FFD",
+      "sport": "Fléchettes",
+      "place": "Dans toutes les ligues"
+    },
+    {
+      "start": "2026-11-28",
+      "end": "2026-12-06",
+      "name": "UK Championship",
+      "sport": "Snooker",
+      "place": "York",
+      "holder": "Mark Selby"
+    },
+    {
+      "start": "2026-12-09",
+      "end": "2026-12-12",
+      "name": "Snooker Shoot Out",
+      "sport": "Snooker",
+      "place": "Blackpool"
+    },
+    {
+      "start": "2026-12-11",
+      "end": "2027-01-03",
+      "name": "Championnat du monde PDC",
+      "sport": "Fléchettes",
+      "place": "Alexandra Palace, Londres",
+      "holder": "Luke Littler"
+    },
+    {
+      "start": "2026-12-14",
+      "end": "2026-12-20",
+      "name": "Scottish Open",
+      "sport": "Snooker",
+      "place": "Édimbourg"
+    }
+  ]
+}

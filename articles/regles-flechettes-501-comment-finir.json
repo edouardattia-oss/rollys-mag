@@ -1,0 +1,42 @@
+{
+  "slug": "regles-flechettes-501-comment-finir",
+  "title": "Les règles du 501 aux fléchettes, et comment bien finir sa partie",
+  "seo_title": "Règles du 501 aux fléchettes : comptage, double out et finitions",
+  "description": "Le 501 est le jeu des championnats du monde de fléchettes. Comptage des points, obligation de finir sur un double, « bust », finitions à connaître : le guide pour jouer comme les pros, au bar ou à la maison.",
+  "category": "guides",
+  "tags": [
+    "guide",
+    "flechettes",
+    "regles"
+  ],
+  "type": "guide",
+  "date": "2026-10-05T07:00:00+02:00",
+  "image": "/images/img-flechette2.jpg",
+  "image_alt": "Cible de fléchettes avec ses doubles et triples",
+  "body": "<p>Si vous avez déjà vu un match de fléchettes à la télévision, vous avez vu du <strong>501</strong>. C'est le jeu officiel de toutes les grandes compétitions, du Championnat du monde PDC aux tournois de la Fédération française de darts. Ses règles tiennent en quelques lignes, mais sa dernière étape, la finition, est un art à part entière.</p>\n\n<h2>Comment se compte une cible</h2>\n<p>La cible est divisée en 20 secteurs numérotés de 1 à 20. Chaque secteur comporte :</p>\n<ul>\n<li>une grande zone simple, qui rapporte la valeur du secteur ;</li>\n<li>un <strong>anneau extérieur</strong> fin, le <strong>double</strong>, qui rapporte deux fois la valeur ;</li>\n<li>un <strong>anneau intérieur</strong> fin, le <strong>triple</strong>, qui rapporte trois fois la valeur.</li>\n</ul>\n<p>Au centre, le <strong>bull</strong> vaut 25 points pour l'anneau vert et 50 pour le centre rouge, le « bullseye », qui compte comme un double. Le meilleur score possible avec trois fléchettes est donc <strong>180</strong> : trois triples 20.</p>\n\n<h2>Les règles du 501</h2>\n<ol>\n<li>Chaque joueur (ou équipe) part de <strong>501 points</strong>.</li>\n<li>À tour de rôle, chacun lance <strong>trois fléchettes</strong> : c'est une « volée ». Le total de la volée est soustrait de son score.</li>\n<li>Le premier qui arrive exactement à <strong>zéro</strong> gagne la manche (le « leg »).</li>\n<li>La dernière fléchette doit obligatoirement tomber dans un <strong>double</strong> (ou le bullseye) : c'est le « <strong>double out</strong> ».</li>\n<li>Si une volée fait descendre le score sous zéro, à exactement 1, ou à zéro sans finir sur un double, c'est un « <strong>bust</strong> » : la volée est annulée et le score revient à ce qu'il était avant.</li>\n</ol>\n<p>Pourquoi ne peut-on pas rester à 1 ? Parce qu'aucun double ne vaut 1 point : la partie serait impossible à terminer.</p>\n\n<h2>Les finitions à connaître</h2>\n<p>Les pros connaissent par cœur le chemin pour finir chaque score. Inutile de tout apprendre : quelques repères suffisent pour progresser.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Score restant</th><th>Finition classique</th></tr></thead>\n<tbody>\n<tr><td>170</td><td>Triple 20, triple 20, bullseye (la plus haute finition possible)</td></tr>\n<tr><td>121</td><td>Triple 20, simple 11, bullseye… ou triple 17, triple 10, double 20</td></tr>\n<tr><td>100</td><td>Triple 20, double 20</td></tr>\n<tr><td>81</td><td>Triple 19, double 12</td></tr>\n<tr><td>60</td><td>Simple 20, double 20</td></tr>\n<tr><td>40</td><td>Double 20 (le favori des pros)</td></tr>\n<tr><td>32</td><td>Double 16 (si on le rate en simple, il reste 16, soit double 8)</td></tr>\n</tbody></table></div>\n<p>L'astuce des joueurs expérimentés : viser un nombre pair qui se divise bien par deux. Si vous restez à 32 et que vous touchez le simple 16 au lieu du double, il vous reste 16, donc le double 8, puis le double 4, et ainsi de suite. Rester à 40 ou à 32 laisse plusieurs « secondes chances ».</p>\n\n<div class=\"encadre\">\n<p><strong>Les scores impossibles en trois fléchettes.</strong> En double out, sept scores sous 170 ne peuvent pas être finis en une seule volée : 169, 168, 166, 165, 163, 162 et 159. Si vous y êtes, préparez une finition pour la volée suivante plutôt que de forcer.</p>\n</div>\n\n<h2>Les variantes pour s'amuser</h2>\n<ul>\n<li><strong>301</strong> : la même chose en plus court, idéal pour débuter.</li>\n<li><strong>Double in</strong> : il faut aussi commencer par un double pour que les points comptent, comme au World Grand Prix.</li>\n<li><strong>Cricket</strong> : on ne soustrait pas, on « ferme » les secteurs 15 à 20 et le bull en les touchant trois fois. Une partie plus tactique, très populaire sur cible électronique.</li>\n</ul>\n\n<h2>Sur cible électronique</h2>\n<p>Au Rolly's Pub, nos <a href=\"/flechettes-nice\">pistes de fléchettes électroniques</a> comptent les points pour vous : vous choisissez le jeu (301, 501, cricket…) et l'option de sortie (simple ou double out), et la borne s'occupe du reste. Le meilleur moyen de se concentrer sur le lancer, et de découvrir le 501 sans calculer de tête.</p>",
+  "faq": [
+    {
+      "q": "Faut-il obligatoirement finir sur un double au 501 ?",
+      "a": "Dans les règles officielles, oui : la dernière fléchette doit tomber dans un double ou dans le bullseye. Entre amis ou sur cible électronique, on peut choisir l'option « simple out » pour une partie plus facile."
+    },
+    {
+      "q": "Que se passe-t-il si on dépasse le score ?",
+      "a": "C'est un « bust » : la volée est annulée et le joueur revient au score qu'il avait avant de lancer."
+    },
+    {
+      "q": "Quelle est la plus haute finition possible ?",
+      "a": "170 points : triple 20, triple 20 et bullseye."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fédération française de darts",
+      "url": "https://www.ffdarts.fr/"
+    },
+    {
+      "title": "WDF — Règlement officiel des compétitions",
+      "url": "https://www.dartswdf.com/"
+    }
+  ],
+  "updated": "2026-10-05T07:00:00+02:00"
+}
