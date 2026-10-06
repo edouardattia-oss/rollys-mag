@@ -20,6 +20,8 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
   - Open Fédéral FFD à Remiremont (24-25 oct.).
 
 ## Points non vérifiés (ne pas publier sans source)
+- Règles blackball FFB/AFEBAS actuelles sur la casse (seuil de billes à la mi-table) : l'article du 06/10 s'appuie sur l'historique Wikipédia (WPA blackball : 2 billes ; règles internationales 2022 : 3 points). Trouver le règlement FFB officiel.
+- Résultats des tournois nationaux FFB de Fumel (blackball) et Fréjus (5 quilles) du 2-4 oct. : introuvables au 06/10.
 - Le vainqueur de la WDF Europe Cup (Mitchell Lawrie ?) et le détail des scores.
 - Les places 3 à 5 du classement de snooker après Shenzhen.
 - Le classement UMB après le Mondial de Blois.
@@ -27,13 +29,15 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 
 ## Idées de sujets (réserve)
 - Le cricket aux fléchettes : règles et stratégie.
-- La casse au 8-ball : comment bien casser.
 - L'effet rétro (« rétro ») et l'effet coulé au billard.
 - Choisir ses fléchettes : poids, grip, tungstène.
 - Le 147 au snooker : histoire des breaks maximums.
 - AFEBAS et FFB : comment jouer au blackball en compétition depuis son bar.
 - Les légendes de l'Ally Pally (Phil Taylor, Van Gerwen…).
 - Organiser un tournoi de fléchettes entre amis.
+- Le heyball (8-ball chinois) : règles FFB, différences avec le pool (doc FFB : ffbillard.com/ext/telechargement.php?id=35396).
+- Le 9-ball : règles WPA 2025, push-out (source : traduction Swisspool 2026).
 
 ## Journal
 - 2026-10-05 : lancement du mag avec 8 articles (World Grand Prix, Mondial 3 bandes, Shenzhen Open, résumé PDC de septembre, calendrier oct.-déc., règles du 501, types de billard, fléchettes électroniques).
+- 2026-10-06 : guide billard (mardi) « La casse au billard : règles du 8-ball et du blackball ». Veille 48 h : pas de finale majeure nouvelle (dernières : Shenzhen Open, Wu Yize 10-5 Yuan Sijun, 4 oct. ; World Grand Prix, 4 oct. ; prochains PC PDC les 28-29 oct.).
