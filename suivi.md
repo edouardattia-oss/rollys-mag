@@ -7,8 +7,8 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
   - Luke Littler domine la saison (Masters, UK Open, Premier League, Matchplay), mais il a été battu par Clayton aux World Series Finals puis éliminé d'entrée au World Grand Prix.
   - Humphries a remporté le World Grand Prix (6-4 contre Price).
   - Prochain grand rendez-vous : Championnat d'Europe à Dortmund, du 22 au 25 oct. (tenant : van Veen).
-- **Ordre du Mérite PDC** : la dernière version vérifiée date de fin août. Il faut récupérer un classement à jour après le World Grand Prix.
-- **Thibault Tricole** (seul Français avec une Tour Card PDC) : suivre ses résultats et sa qualification pour l'Ally Pally.
+- **Ordre du Mérite PDC** (vérifié au 06/10, Dartsnews) : 1. Littler 3 124 000 £ ; 2. Humphries 1 081 000 £ ; 3. van Veen 1 029 750 £ ; 4. Price 793 000 £ ; 5. Wade 686 250 £ ; 6. Clayton 684 000 £. De Decker 33e, Van den Bergh 59e. À refaire après Dortmund (bataille n°2 Humphries/van Veen, top 5 Wade/Clayton). Mondial 2027 : top 40 OoM qualifiés d'office.
+- **Thibault Tricole** (seul Français avec une Tour Card PDC) : 66e mondial au 26/08 (Wikipédia). Hors top 40, il doit passer par le Pro Tour ou une qualification pour l'Ally Pally. Statut de sa Tour Card pour 2027 à vérifier.
 - **Snooker** :
   - Zhao Xintong est n°1 mondial et Wu Yize n°2, une première pour deux Chinois.
   - Prochain tournoi : Northern Ireland Open à Belfast, du 18 au 25 oct.
@@ -20,6 +20,8 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
   - Open Fédéral FFD à Remiremont (24-25 oct.).
 
 ## Points non vérifiés (ne pas publier sans source)
+- Classement OoM PDC au-delà du top 10 après le World Grand Prix (seul le pointage provisoire du 02/10 est disponible) ; classement officiel pdc.tv non consulté (accès refusé).
+- Date butoir de qualification au Mondial 2027 via l'Ordre du Mérite.
 - Règles blackball FFB/AFEBAS actuelles sur la casse (seuil de billes à la mi-table) : l'article du 06/10 s'appuie sur l'historique Wikipédia (WPA blackball : 2 billes ; règles internationales 2022 : 3 points). Trouver le règlement FFB officiel.
 - Résultats des tournois nationaux FFB de Fumel (blackball) et Fréjus (5 quilles) du 2-4 oct. : introuvables au 06/10.
 - Le vainqueur de la WDF Europe Cup (Mitchell Lawrie ?) et le détail des scores.
@@ -41,3 +43,4 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 ## Journal
 - 2026-10-05 : lancement du mag avec 8 articles (World Grand Prix, Mondial 3 bandes, Shenzhen Open, résumé PDC de septembre, calendrier oct.-déc., règles du 501, types de billard, fléchettes électroniques).
 - 2026-10-06 : guide billard (mardi) « La casse au billard : règles du 8-ball et du blackball ». Veille 48 h : pas de finale majeure nouvelle (dernières : Shenzhen Open, Wu Yize 10-5 Yuan Sijun, 4 oct. ; World Grand Prix, 4 oct. ; prochains PC PDC les 28-29 oct.).
+- 2026-10-07 : analyse (mercredi) « Ordre du Mérite PDC : Humphries creuse l'écart, Wade revient dans le top 5 ». Veille 48 h : aucune finale majeure entre le 5 et le 7 oct. Prochain : Swiss Darts Trophy (Bâle, 9-11 oct.).
