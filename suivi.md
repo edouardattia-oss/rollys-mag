@@ -30,13 +30,13 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - Les dates du championnat du monde de 9-ball 2026.
 
 ## Idées de sujets (réserve)
-- Le cricket aux fléchettes : règles et stratégie.
 - L'effet rétro (« rétro ») et l'effet coulé au billard.
 - Choisir ses fléchettes : poids, grip, tungstène.
 - Le 147 au snooker : histoire des breaks maximums.
 - AFEBAS et FFB : comment jouer au blackball en compétition depuis son bar.
 - Les légendes de l'Ally Pally (Phil Taylor, Van Gerwen…).
 - Organiser un tournoi de fléchettes entre amis.
+- Le killer aux fléchettes (jeu de bar à plusieurs) : prolongement naturel du guide cricket.
 - Le heyball (8-ball chinois) : règles FFB, différences avec le pool (doc FFB : ffbillard.com/ext/telechargement.php?id=35396).
 - Le 9-ball : règles WPA 2025, push-out (source : traduction Swisspool 2026).
 
@@ -44,3 +44,4 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - 2026-10-05 : lancement du mag avec 8 articles (World Grand Prix, Mondial 3 bandes, Shenzhen Open, résumé PDC de septembre, calendrier oct.-déc., règles du 501, types de billard, fléchettes électroniques).
 - 2026-10-06 : guide billard (mardi) « La casse au billard : règles du 8-ball et du blackball ». Veille 48 h : pas de finale majeure nouvelle (dernières : Shenzhen Open, Wu Yize 10-5 Yuan Sijun, 4 oct. ; World Grand Prix, 4 oct. ; prochains PC PDC les 28-29 oct.).
 - 2026-10-07 : analyse (mercredi) « Ordre du Mérite PDC : Humphries creuse l'écart, Wade revient dans le top 5 ». Veille 48 h : aucune finale majeure entre le 5 et le 7 oct. Prochain : Swiss Darts Trophy (Bâle, 9-11 oct.).
+- 2026-10-08 : guide fléchettes (jeudi) « Le cricket aux fléchettes : règles, variantes et stratégie ». Veille 48 h (6-8 oct.) : aucune finale majeure PDC/WST/WNT/UMB repérée. Prochain : Swiss Darts Trophy (Bâle, 9-11 oct.) → résultat à traiter lundi 12. Non vérifié : chiffres de MPR par niveau (aucune source fiable trouvée, non publiés) ; règles recoupées entre Wikipédia (en), Dolf Darts et Bar Games 101.
