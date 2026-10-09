@@ -1,12 +1,20 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-09",
   "events": [
     {
       "start": "2026-10-09",
       "end": "2026-10-11",
       "name": "Swiss Darts Trophy (European Tour)",
       "sport": "Fléchettes",
-      "place": "Bâle (Suisse)"
+      "place": "Bâle (Suisse)",
+      "holder": "Stephen Bunting"
+    },
+    {
+      "start": "2026-10-10",
+      "end": "2026-10-11",
+      "name": "PDC Women's Series (épreuves 21 à 24)",
+      "sport": "Fléchettes",
+      "place": "Wigan (Angleterre)"
     },
     {
       "start": "2026-10-15",
@@ -21,7 +29,8 @@
       "end": "2026-10-18",
       "name": "Dutch Darts Championship (European Tour)",
       "sport": "Fléchettes",
-      "place": "Maastricht (Pays-Bas)"
+      "place": "Maastricht (Pays-Bas)",
+      "holder": "Jonny Clayton"
     },
     {
       "start": "2026-10-18",
