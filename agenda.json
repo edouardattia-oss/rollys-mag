@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "events": [
     {
       "start": "2026-10-09",
@@ -47,6 +47,13 @@
       "sport": "Pool",
       "place": "Quezon City (Philippines)",
       "holder": "David Alcaide"
+    },
+    {
+      "start": "2026-10-21",
+      "end": "2026-10-28",
+      "name": "Championnats du monde de blackball",
+      "sport": "Billard anglais",
+      "place": "Londres Heathrow (Angleterre)"
     },
     {
       "start": "2026-10-22",
@@ -126,7 +133,7 @@
     {
       "start": "2026-11-20",
       "end": "2026-11-22",
-      "name": "Tournois nationaux de blackball (FFB)",
+      "name": "2e tournoi national de blackball (FFB)",
       "sport": "Billard anglais",
       "place": "Albi (Tarn)"
     },

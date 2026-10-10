@@ -16,9 +16,10 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
   - Prochain tournoi : Northern Ireland Open à Belfast, du 18 au 25 oct.
 - **Pool** : Reyes Cup à Manille du 15 au 18 oct., puis Mosconi Cup à Orlando du 27 au 30 nov. (l'Europe défend son titre).
 - **3 bandes** : Eddy Merckx est champion du monde (Blois). Prochaine étape : Coupe du monde en Corée du 2 au 8 nov., lieu à confirmer.
-- **France** : résultats à récupérer :
-  - 1er tournoi national de blackball à Fumel (2-4 oct.) ;
-  - 1er tournoi national de 5 quilles à Fréjus (2-4 oct.) ;
+- **France** :
+  - Blackball FFB : 1er national à Fumel (2-4 oct.) traité le 10/10 (Joly Masters, Brunet Femmes). Prochains : Mondiaux à Londres Heathrow (21-28 oct., selon FFB), 2e national à Albi (20-22 nov.) → résultats à traiter. Champions de France 2026 (Les Herbiers, juin) : Klinka (Masters), Brunet (Femmes), Crespin (Espoirs + Juniors).
+  - FFB : partenariat Predator Group (08/10), label Club école ouvert jusqu'au 31/12 (218 clubs labellisés en 2025-26).
+  - Résultats à récupérer : 1er tournoi national de 5 quilles à Fréjus (2-4 oct.) ;
   - Open Fédéral FFD à Remiremont (24-25 oct.).
 
 ## Points non vérifiés (ne pas publier sans source)
@@ -28,7 +29,8 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - Classement OoM PDC au-delà du top 10 après le World Grand Prix (seul le pointage provisoire du 02/10 est disponible) ; classement officiel pdc.tv non consulté (accès refusé).
 - Date butoir de qualification au Mondial 2027 via l'Ordre du Mérite.
 - Règles blackball FFB/AFEBAS actuelles sur la casse (seuil de billes à la mi-table) : l'article du 06/10 s'appuie sur l'historique Wikipédia (WPA blackball : 2 billes ; règles internationales 2022 : 3 points). Trouver le règlement FFB officiel.
-- Résultats des tournois nationaux FFB de Fumel (blackball) et Fréjus (5 quilles) du 2-4 oct. : introuvables au 06/10.
+- Résultats du national 5 quilles de Fréjus (2-4 oct.) : toujours introuvables au 10/10.
+- Fédération organisatrice des Mondiaux de blackball de Londres (21-28 oct.) : non identifiée (l'EBA annonce par ailleurs des Mondiaux 2026 en Afrique du Sud, autre fédération ?). Article FFB 3682 (Fumel) non lisible directement (boucle de redirection) : résultats lus via l'extrait de la page « Toutes les actualités » ; finales et scores de Fumel non connus. Critères d'âge vétérans / Prestige vétérans non vérifiés.
 - Le vainqueur de la WDF Europe Cup (Mitchell Lawrie ?) et le détail des scores.
 - Les places 3 à 5 du classement de snooker après Shenzhen.
 - Le classement UMB après le Mondial de Blois.
@@ -51,3 +53,4 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - 2026-10-07 : analyse (mercredi) « Ordre du Mérite PDC : Humphries creuse l'écart, Wade revient dans le top 5 ». Veille 48 h : aucune finale majeure entre le 5 et le 7 oct. Prochain : Swiss Darts Trophy (Bâle, 9-11 oct.).
 - 2026-10-08 : guide fléchettes (jeudi) « Le cricket aux fléchettes : règles, variantes et stratégie ». Veille 48 h (6-8 oct.) : aucune finale majeure PDC/WST/WNT/UMB repérée. Prochain : Swiss Darts Trophy (Bâle, 9-11 oct.) → résultat à traiter lundi 12. Non vérifié : chiffres de MPR par niveau (aucune source fiable trouvée, non publiés) ; règles recoupées entre Wikipédia (en), Dolf Darts et Bar Games 101.
 - 2026-10-09 : avant-programme (vendredi) « Swiss Darts Trophy à Bâle : Humphries en tête d'affiche, Bunting en défense, Littler absent ». Veille 48 h (7-9 oct.) : aucune finale majeure PDC/WST/WNT/UMB. Agenda : ajout Women's Series Wigan (10-11 oct.), tenants Bâle (Bunting) et Maastricht (Clayton). Contradiction relevée : Dartsnews listait encore Price/Anderson/Aspinall en têtes de série, le tableau officiel (Sky/PDC) et Darts World confirment leur forfait.
+- 2026-10-10 : France & local (samedi) « Blackball : Damien Joly et Sabrilla Brunet lancent la saison nationale à Fumel ». Veille 48 h (8-10 oct.) : aucune finale majeure PDC/WST/WNT/UMB (Swiss Darts Trophy en cours, résultat lundi 12). Agenda : ajout Mondiaux blackball Londres (21-28 oct.), renommage du national d'Albi. Sources : FFB (actualités, championnat de France 2026, sélections), Wikipédia (palmarès Brunet).
