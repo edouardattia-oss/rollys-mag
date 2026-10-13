@@ -15,7 +15,7 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - **Snooker** :
   - Zhao Xintong est n°1 mondial et Wu Yize n°2, une première pour deux Chinois.
   - Prochain tournoi : Northern Ireland Open à Belfast, du 18 au 25 oct.
-- **Pool** : Reyes Cup à Manille du 15 au 18 oct., puis Mosconi Cup à Orlando du 27 au 30 nov. (l'Europe défend son titre).
+- **Pool** : Reyes Cup à Manille du 15 au 18 oct. (9-ball ; capitaines Bustamante pour l'Asie, Souquet pour le Reste du monde ; Asie tenante, 11-3 en 2025, AZBilliards 13/07), puis Mosconi Cup à Orlando du 27 au 30 nov. (l'Europe défend son titre). Philippines Open (Quezon City, 20-24 oct., tenant Alcaide). Szewczyk champion du monde de 10-ball (Hô Chi Minh-Ville, fin sept., WPA/EPBF) : non traité. → Résultat Reyes Cup à traiter lundi 19.
 - **3 bandes** : Eddy Merckx est champion du monde (Blois). Prochaine étape : Coupe du monde en Corée du 2 au 8 nov., lieu à confirmer.
 - **France** :
   - Blackball FFB : 1er national à Fumel (2-4 oct.) traité le 10/10 (Joly Masters, Brunet Femmes). Prochains : Mondiaux à Londres Heathrow (21-28 oct., selon FFB), 2e national à Albi (20-22 nov.) → résultats à traiter. Champions de France 2026 (Les Herbiers, juin) : Klinka (Masters), Brunet (Femmes), Crespin (Espoirs + Juniors).
@@ -38,6 +38,8 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - Les places 3 à 5 du classement de snooker après Shenzhen.
 - Le classement UMB après le Mondial de Blois.
 - Les dates du championnat du monde de 9-ball 2026.
+- Reyes Cup 2026 : format exact (longueur des matchs, nombre de points) et lieu précis à Manille non vérifiés. Règles spécifiques Matchroom (casse, chrono) non vérifiées : l'article 9-ball du 13/10 s'en tient aux règles WPA.
+- Swisspool (PDF) inaccessible en téléchargement direct : lu via résumé ; les règles 9-ball ont été recoupées sur le PDF WPA officiel.
 
 ## Idées de sujets (réserve)
 - L'effet rétro (« rétro ») et l'effet coulé au billard.
@@ -48,7 +50,6 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - Organiser un tournoi de fléchettes entre amis.
 - Le killer aux fléchettes (jeu de bar à plusieurs) : prolongement naturel du guide cricket.
 - Le heyball (8-ball chinois) : règles FFB, différences avec le pool (doc FFB : ffbillard.com/ext/telechargement.php?id=35396).
-- Le 9-ball : règles WPA 2025, push-out (source : traduction Swisspool 2026).
 
 ## Journal
 - 2026-10-05 : lancement du mag avec 8 articles (World Grand Prix, Mondial 3 bandes, Shenzhen Open, résumé PDC de septembre, calendrier oct.-déc., règles du 501, types de billard, fléchettes électroniques).
@@ -59,3 +60,4 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - 2026-10-10 : France & local (samedi) « Blackball : Damien Joly et Sabrilla Brunet lancent la saison nationale à Fumel ». Veille 48 h (8-10 oct.) : aucune finale majeure PDC/WST/WNT/UMB (Swiss Darts Trophy en cours, résultat lundi 12). Agenda : ajout Mondiaux blackball Londres (21-28 oct.), renommage du national d'Albi. Sources : FFB (actualités, championnat de France 2026, sélections), Wikipédia (palmarès Brunet).
 - 2026-10-11 : actu (dimanche, priorité à l'actu 48 h) « Women's Series : Greaves s'offre un doublé à Wigan, Sherrock et Hayter filent à l'Ally Pally ». Veille 48 h (9-11 oct.) : aucune finale WST/WNT/UMB repérée ; Swiss Darts Trophy en cours (finale dimanche soir). Sources : Sky Sports (10/10 ×2, 21/03), Darts World (10/10), Yahoo Sports, Wikipédia. Non vérifié : séquence des manches des finales ; pdc.tv illisible (page vide).
 - 2026-10-12 : actu (lundi, résultats du week-end) « Swiss Darts Trophy : Jonny Clayton bat Humphries 8-4 à Bâle et décroche son ticket pour le Grand Slam », avec la fin des Women's Series (Pruim 5e qualifiée). Veille 48 h (10-12 oct.) : aucune finale WST (seul Q Tour Asie-Pacifique 4, Calabrese), WNT ou UMB repérée. Sources : Sky Sports (×2), Dartsnews (×3), Darts World, Wikipédia. Agenda inchangé (dates déjà à jour).
+- 2026-10-13 : guide billard (mardi) « Règles du 9-ball : casse, push-out et fautes, tout comprendre avant la Reyes Cup ». Veille 48 h (11-13 oct.) : aucune finale WST (seul Q Tour Asie-Pacifique 4, Calabrese 6-2 Haenga, 11/10), WNT, UMB ou PDC repérée. Sources : WPA Rules of Play (15/09/2025) et Rule Regulations (règle des trois billes, rég. 16), Swisspool, AZBilliards (Reyes Cup). Nouveauté relevée : la règle des trois billes est désormais intégrée à la règle 5.3 WPA et obligatoire dans les tournois classés WPA de 9-ball.
