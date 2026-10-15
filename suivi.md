@@ -39,11 +39,11 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - Le classement UMB après le Mondial de Blois.
 - Les dates du championnat du monde de 9-ball 2026.
 - Reyes Cup 2026 : âge de Januarta (17 ans, 77 Billiards seul) ; Yapp n°1 mondial (Absolute Pool seul, non publié) ; format exact (longueur des matchs, nombre de points) et lieu précis à Manille non vérifiés. Règles spécifiques Matchroom (casse, chrono) non vérifiées : l'article 9-ball du 13/10 s'en tient aux règles WPA.
+- Choisir ses fléchettes (15/10) : plafond soft-tip de 20 g = règle NDA américaine de 2015 (Vending Times), pas de règle FFD/ligues françaises trouvée ; poids de jeu des pros non publiés (aucune source fiable consultée).
 - Swisspool (PDF) inaccessible en téléchargement direct : lu via résumé ; les règles 9-ball ont été recoupées sur le PDF WPA officiel.
 
 ## Idées de sujets (réserve)
 - L'effet rétro (« rétro ») et l'effet coulé au billard.
-- Choisir ses fléchettes : poids, grip, tungstène.
 - Le 147 au snooker : histoire des breaks maximums.
 - AFEBAS et FFB : comment jouer au blackball en compétition depuis son bar.
 - Les légendes de l'Ally Pally (Phil Taylor, Van Gerwen…).
@@ -62,3 +62,4 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - 2026-10-12 : actu (lundi, résultats du week-end) « Swiss Darts Trophy : Jonny Clayton bat Humphries 8-4 à Bâle et décroche son ticket pour le Grand Slam », avec la fin des Women's Series (Pruim 5e qualifiée). Veille 48 h (10-12 oct.) : aucune finale WST (seul Q Tour Asie-Pacifique 4, Calabrese), WNT ou UMB repérée. Sources : Sky Sports (×2), Dartsnews (×3), Darts World, Wikipédia. Agenda inchangé (dates déjà à jour).
 - 2026-10-13 : guide billard (mardi) « Règles du 9-ball : casse, push-out et fautes, tout comprendre avant la Reyes Cup ». Veille 48 h (11-13 oct.) : aucune finale WST (seul Q Tour Asie-Pacifique 4, Calabrese 6-2 Haenga, 11/10), WNT, UMB ou PDC repérée. Sources : WPA Rules of Play (15/09/2025) et Rule Regulations (règle des trois billes, rég. 16), Swisspool, AZBilliards (Reyes Cup). Nouveauté relevée : la règle des trois billes est désormais intégrée à la règle 5.3 WPA et obligatoire dans les tournois classés WPA de 9-ball.
 - 2026-10-14 : analyse (mercredi) « Reyes Cup 2026 : l'Asie vise le triplé à Manille face à un Reste du monde bardé de champions ». Veille 48 h (12-14 oct.) : aucune finale majeure PDC/WST/WNT/UMB repérée. Sources : Absolute Pool (07/10), 77 Billiards (08/10), AZBilliards/Matchroom (09/10, 23/07, 31/08, 23/02, 31/05), Wikipédia. Horaires : 7 h ET = 13 h Paris. Contradiction : Wikipédia décrit 3 qualifiés d'office + 2 choix (anciennes éditions), Matchroom 2026 : 2 qualifiés + 2 choix + 1 invitation → suivi Matchroom. Agenda : lieux précisés (Makati Coliseum, Caribe Royale).
+- 2026-10-15 : guide fléchettes (jeudi) « Choisir ses fléchettes : poids, tungstène, grip, le guide pour trouver le bon jeu ». Veille 48 h (13-15 oct.) : aucune finale majeure PDC/WST/WNT/UMB (snooker.org : rien après le Q Tour Asie-Pacifique 4 ; WPA Bali terminé le 5/10). Reyes Cup débute ce jour (résultat lundi 19). Sources : WDF Playing Rules (règle 1.01 : 30,5 cm, 50 g), Darts Corner (×2), Red Dragon, Vending Times. Agenda inchangé.
