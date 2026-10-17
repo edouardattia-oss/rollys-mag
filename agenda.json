@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "events": [
     {
       "start": "2026-10-09",
@@ -68,8 +68,9 @@
       "end": "2026-10-25",
       "name": "Open Fédéral FFD",
       "sport": "Fléchettes",
-      "place": "Remiremont (Vosges)",
-      "url": "https://www.ffdarts.fr/calendrier"
+      "place": "Palais des Congrès, Remiremont (Vosges)",
+      "url": "https://www.ffdarts.fr/calendrier",
+      "holder": "Nicolas Thuillier / Carole Monpoux"
     },
     {
       "start": "2026-10-30",
@@ -189,6 +190,14 @@
       "name": "Scottish Open",
       "sport": "Snooker",
       "place": "Édimbourg"
+    },
+    {
+      "start": "2027-03-27",
+      "end": "2027-03-28",
+      "name": "Coupe de France FFD",
+      "sport": "Fléchettes",
+      "place": "Lieu à confirmer",
+      "url": "https://www.ffdarts.fr/calendrier"
     }
   ]
 }
