@@ -15,6 +15,7 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - **Snooker** :
   - Zhao Xintong est n°1 mondial et Wu Yize n°2, une première pour deux Chinois.
   - Prochain tournoi : Northern Ireland Open à Belfast, du 18 au 25 oct.
+  - 147 : grand format publié le 18/10 (246 maximums au 28/07/2026 selon Wikipédia/SnookerHQ ; O'Sullivan 17, Higgins 13, Hendry 11 ; record saison 2025-26 : 24 selon Wikipédia ; 153 d'O'Sullivan au World Open, mars 2026). → Signaler tout nouveau 147 (NI Open, International Championship) en actu.
 - **Pool** : Reyes Cup à Manille du 15 au 18 oct. (9-ball ; capitaines Bustamante pour l'Asie, Souquet pour le Reste du monde ; Asie tenante, 11-3 en 2025, AZBilliards 13/07), puis Mosconi Cup à Orlando du 27 au 30 nov. (l'Europe défend son titre). Philippines Open (Quezon City, 20-24 oct., tenant Alcaide). Szewczyk champion du monde de 10-ball (Hô Chi Minh-Ville, fin sept., WPA/EPBF) : non traité. Reyes Cup : analyse des équipes publiée le 14/10 (Makati Coliseum ; Asie : Biado, Capito, Manas, Januarta, Duong ; RdM : Sánchez Ruiz, Van Boening, Gorst, Filler, Pecelj). Mosconi Cup au Caribe Royale (Orlando), cutoff qualif = Philippines Open. Reyes Cup jour 1 (15/10) : 2-2 (Asie gagne le match par équipe et le double Biado/Capito 5-1 ; RdM : Sánchez Ruiz 5-1 Duong, Van Boening/Gorst 5-1 Manas/Januarta, AZBilliards). → Résultat Reyes Cup à traiter lundi 19.
 - **3 bandes** : Eddy Merckx est champion du monde (Blois). Prochaine étape : Coupe du monde en Corée du 2 au 8 nov., lieu à confirmer.
 - **France** :
@@ -48,9 +49,10 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - Open Fédéral 2026 : « aucune licence exigée » et tarifs (30 € / 80 € les 3 cibles) = Darts Nerd seul (date de l'article incohérente, 28/29 sept.), publié avec « selon ». Catégorie paradarts : Darts Nerd seul. Date exacte (mois) de l'édition 2025-26 à Montoir non vérifiée. Orthographe Michaël/Mickael Estevez variable dans le palmarès FFD (même joueur ? non affirmé). Page dédiée FFD de l'Open non consultée.
 - WDF Europe Cup (Tórshavn, 29 sept.-2 oct.) : équipe de France féminine qualifiée pour les 8es (contre la Suède, Darts World 01/10), suite non trouvée (dartswdf.com bloqué).
 
+- 147 (article du 18/10) : nombre de 147 réussis depuis fin juillet 2026 (English Open, Shenzhen Open, British Open…) inconnu ; aucune liste à jour après le 28/07 trouvée (Sporting Life 24/09 s'arrête aussi au 246e). Shaun Murphy à 10 maximums (Totally Snookered, Sporting Life) non repris dans le tableau SnookerHQ → non publié. Total du Crucible (15 par 11 joueurs) : Wikipédia seul. Décompte par décennie (8 dans les années 1980) : WPBSA seul.
+
 ## Idées de sujets (réserve)
 - L'effet rétro (« rétro ») et l'effet coulé au billard.
-- Le 147 au snooker : histoire des breaks maximums.
 - AFEBAS et FFB : comment jouer au blackball en compétition depuis son bar.
 - Les légendes de l'Ally Pally (Phil Taylor, Van Gerwen…).
 - Organiser un tournoi de fléchettes entre amis.
@@ -71,3 +73,4 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - 2026-10-15 : guide fléchettes (jeudi) « Choisir ses fléchettes : poids, tungstène, grip, le guide pour trouver le bon jeu ». Veille 48 h (13-15 oct.) : aucune finale majeure PDC/WST/WNT/UMB (snooker.org : rien après le Q Tour Asie-Pacifique 4 ; WPA Bali terminé le 5/10). Reyes Cup débute ce jour (résultat lundi 19). Sources : WDF Playing Rules (règle 1.01 : 30,5 cm, 50 g), Darts Corner (×2), Red Dragon, Vending Times. Agenda inchangé.
 - 2026-10-16 : avant-programme (vendredi) « Dutch Darts Championship à Maastricht : sans Humphries, van Veen à domicile et dernière chance pour Dortmund », avec un point Reyes Cup (2-2 après le jour 1) et l'ouverture du NI Open. Veille 48 h (14-16 oct.) : aucune finale majeure PDC/WST/WNT/UMB. Sources : PDC Europe, Darts World (15/10), Dartsnews (×3), Darts Planet, AZBilliards/Matchroom, Absolute Pool, Wikipédia. Agenda : lieux précisés (MECC, Waterfront Hall).
 - 2026-10-17 : France & local (samedi) « Open Fédéral 2026 : plus de 400 joueurs attendus à Remiremont pour le rendez-vous des fléchettes françaises ». Veille 48 h (15-17 oct.) : aucune finale majeure PDC/WST/WNT/UMB (Maastricht et Reyes Cup en cours jusqu'au 18 ; English Open joué en sept.). Sources : Remiremont Vallées (12/10/2026, 24/10/2024), Remiremont Info (10/10), Darts Nerd, FFD (palmarès, calendrier), PDC Europe (règles). Agenda : lieu et tenants de l'Open Fédéral, ajout Coupe de France FFD (27-28 mars 2027).
+- 2026-10-18 : grand format (dimanche) « Le 147 au snooker : de Joe Davis au 153 d'O'Sullivan, l'histoire du break maximum », adossé à l'ouverture du NI Open. Veille 48 h (16-18 oct.) : aucune finale majeure PDC/WST/WNT/UMB terminée (Maastricht et Reyes Cup se terminent ce soir → lundi 19). Sources : Wikipédia (Maximum break, 28/07/2026), SnookerHQ (×2), Totally Snookered, Sporting Life (24/09), WPBSA (25/11/2025). Agenda inchangé.
