@@ -45,6 +45,7 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - Dartsnews donne 8-4 pour la finale 2025 de Maastricht dans un tableau, 8-6 dans son texte ; PDC Europe et Wikipédia : 8-6 (retenu).
 - Reyes Cup 2026 : âge de Januarta (17 ans, 77 Billiards seul) ; Yapp n°1 mondial (Absolute Pool seul, non publié) ; format exact (longueur des matchs, nombre de points) et lieu précis à Manille non vérifiés. Règles spécifiques Matchroom (casse, chrono) non vérifiées : l'article 9-ball du 13/10 s'en tient aux règles WPA.
 - Choisir ses fléchettes (15/10) : plafond soft-tip de 20 g = règle NDA américaine de 2015 (Vending Times), pas de règle FFD/ligues françaises trouvée ; poids de jeu des pros non publiés (aucune source fiable consultée).
+- Guide rétro/coulé (20/10) : règle des 30° — référence de l'angle (« direction de départ ») résumée d'après Dr. Dave, page lue partiellement ; page « stun shot » de Dr. Dave non consultée (accès refusé). Bio de l'auteur Decathlon (Erwan, champion de France N1 2015) non recoupée, publié « un champion de France ».
 - Swisspool (PDF) inaccessible en téléchargement direct : lu via résumé ; les règles 9-ball ont été recoupées sur le PDF WPA officiel.
 
 - Open Fédéral 2026 : « aucune licence exigée » et tarifs (30 € / 80 € les 3 cibles) = Darts Nerd seul (date de l'article incohérente, 28/29 sept.), publié avec « selon ». Catégorie paradarts : Darts Nerd seul. Date exacte (mois) de l'édition 2025-26 à Montoir non vérifiée. Orthographe Michaël/Mickael Estevez variable dans le palmarès FFD (même joueur ? non affirmé). Page dédiée FFD de l'Open non consultée.
@@ -56,7 +57,7 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - Reyes Cup : nationalité de Pecelj non vérifiée (non publiée) ; capitaine de l'Asie (Bustamante) non confirmé dans les comptes rendus finaux.
 
 ## Idées de sujets (réserve)
-- L'effet rétro (« rétro ») et l'effet coulé au billard.
+- L'effet latéral (« anglais ») au billard et la déviation de la blanche (suite du guide rétro/coulé du 20/10).
 - AFEBAS et FFB : comment jouer au blackball en compétition depuis son bar.
 - Les légendes de l'Ally Pally (Phil Taylor, Van Gerwen…).
 - Organiser un tournoi de fléchettes entre amis.
@@ -79,3 +80,4 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - 2026-10-17 : France & local (samedi) « Open Fédéral 2026 : plus de 400 joueurs attendus à Remiremont pour le rendez-vous des fléchettes françaises ». Veille 48 h (15-17 oct.) : aucune finale majeure PDC/WST/WNT/UMB (Maastricht et Reyes Cup en cours jusqu'au 18 ; English Open joué en sept.). Sources : Remiremont Vallées (12/10/2026, 24/10/2024), Remiremont Info (10/10), Darts Nerd, FFD (palmarès, calendrier), PDC Europe (règles). Agenda : lieu et tenants de l'Open Fédéral, ajout Coupe de France FFD (27-28 mars 2027).
 - 2026-10-18 : grand format (dimanche) « Le 147 au snooker : de Joe Davis au 153 d'O'Sullivan, l'histoire du break maximum », adossé à l'ouverture du NI Open. Veille 48 h (16-18 oct.) : aucune finale majeure PDC/WST/WNT/UMB terminée (Maastricht et Reyes Cup se terminent ce soir → lundi 19). Sources : Wikipédia (Maximum break, 28/07/2026), SnookerHQ (×2), Totally Snookered, Sporting Life (24/09), WPBSA (25/11/2025). Agenda inchangé.
 - 2026-10-19 : actu (lundi, résultats du week-end) « Zonneveld s'offre Maastricht et son premier titre, le Reste du monde détrône l'Asie à la Reyes Cup », avec le tableau de Dortmund. Veille 48 h (17-19 oct.) : aucune finale WST (NI Open en cours) ni UMB repérée. Sources : Sky Sports (×2), NOS, Dartsnews (×2), Dartsnews.de, Sporting News/Yahoo, AZBilliards (×2), Absolute Pool (×2). Agenda : lieu du Philippines Open (Gateway Mall).
+- 2026-10-20 : guide billard (mardi) « Rétro, coulé et coup d'arrêt : le guide pour maîtriser la blanche au billard ». Veille 48 h (18-20 oct.) : aucune finale majeure nouvelle (Maastricht et Reyes Cup traités le 19 ; NI Open en cours jusqu'au 25, Philippines Open du 20 au 24). Sources : Dr. Dave Alciatore (×6, drdavepoolinfo.com), Decathlon Conseil Sport (×2). Agenda inchangé.
