@@ -58,12 +58,14 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 
 - Portrait van Veen (21/10) : « plus jeune vainqueur du Championnat d'Europe » = Wikipédia seul (publié « d'après Wikipédia ») ; hospitalisation de mars (calcul rénal) = Dartsnews seul (publié « selon Dartsnews ») ; Bahrain Masters 8-6 MvG = Wikipédia seul ; date de naissance (23/04/2002, 24 ans) = Wikipédia seul. Wikipédia (26/08) ne liste aucun titre de van Veen en 2026, Darts World et Dartsnews (19-20/10) n'en citent aucun → « année des finales perdues » formulé sans affirmer « aucun titre ». Finale du Mondial : Sky dit samedi 3 janvier, Wikipédia 4 janvier → Sky retenu. Moyenne de van Veen en finale du Mondial non trouvée. Pdc.tv (programme officiel) toujours illisible.
 
+- Killer (22/10) : deux écoles de règles (« vies » : Darts Corner, Gran Darts, Masters of Games en 5 vies ; « double » : DartHelp, Dolf Darts), aucune règle officielle (WDF/FFD) trouvée → présenté comme règles de bar. Liste des jeux/options Gran Darts lue sur l'appli Gran Darts : présence du killer sur les cibles du Rolly's non vérifiée sur place (formulé « sur les cibles Gran Darts »). Aucune source française consultée.
+
 ## Idées de sujets (réserve)
+- Le Shanghai et le tour de l'horloge (« around the clock ») : autres jeux de bar aux fléchettes.
 - L'effet latéral (« anglais ») au billard et la déviation de la blanche (suite du guide rétro/coulé du 20/10).
 - AFEBAS et FFB : comment jouer au blackball en compétition depuis son bar.
 - Les légendes de l'Ally Pally (Phil Taylor, Van Gerwen…).
 - Organiser un tournoi de fléchettes entre amis.
-- Le killer aux fléchettes (jeu de bar à plusieurs) : prolongement naturel du guide cricket.
 - Le heyball (8-ball chinois) : règles FFB, différences avec le pool (doc FFB : ffbillard.com/ext/telechargement.php?id=35396).
 
 ## Journal
@@ -84,3 +86,4 @@ Fils rouges et sujets à traiter. À mettre à jour à chaque publication.
 - 2026-10-19 : actu (lundi, résultats du week-end) « Zonneveld s'offre Maastricht et son premier titre, le Reste du monde détrône l'Asie à la Reyes Cup », avec le tableau de Dortmund. Veille 48 h (17-19 oct.) : aucune finale WST (NI Open en cours) ni UMB repérée. Sources : Sky Sports (×2), NOS, Dartsnews (×2), Dartsnews.de, Sporting News/Yahoo, AZBilliards (×2), Absolute Pool (×2). Agenda : lieu du Philippines Open (Gateway Mall).
 - 2026-10-20 : guide billard (mardi) « Rétro, coulé et coup d'arrêt : le guide pour maîtriser la blanche au billard ». Veille 48 h (18-20 oct.) : aucune finale majeure nouvelle (Maastricht et Reyes Cup traités le 19 ; NI Open en cours jusqu'au 25, Philippines Open du 20 au 24). Sources : Dr. Dave Alciatore (×6, drdavepoolinfo.com), Decathlon Conseil Sport (×2). Agenda inchangé.
 - 2026-10-21 : portrait (mercredi) « Gian van Veen, le géant aux finales perdues qui remet son titre de champion d'Europe en jeu à Dortmund ». Veille 48 h (19-21 oct.) : aucune finale majeure terminée (NI Open en cours jusqu'au 25, Philippines Open jusqu'au 24, Mondiaux blackball débutent le 21). Sources : Dartsnews (×4), Sky Sports (×2), Darts World (×2), Darts Planet, Sporting Life, Wikipédia. Agenda : salle de Dortmund (Westfalenhallen). → Avant-programme Dortmund/NI Open vendredi 23 possible mais déjà en cours : privilégier résultats lundi 26 (Dortmund + Remiremont + NI Open).
+- 2026-10-22 : guide fléchettes (jeudi) « Le killer aux fléchettes : règles, variantes et ruses du jeu d'élimination préféré des bars » (réserve d'idées), avec renvoi au début du Championnat d'Europe (Dortmund, ce jour). Veille 48 h (20-22 oct.) : aucune finale majeure terminée (NI Open jusqu'au 25, Philippines Open jusqu'au 24, Mondiaux blackball jusqu'au 28, Dortmund débute le 22). Sources : Darts Corner, DartHelp, Dolf Darts, Masters of Games, Gran Darts. Agenda inchangé. → Résultats lundi 26 (Dortmund + Remiremont + NI Open + Philippines Open).
