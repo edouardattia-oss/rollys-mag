@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "events": [
     {
       "start": "2026-10-09",
@@ -85,7 +85,7 @@
       "end": "2026-11-07",
       "name": "International Championship",
       "sport": "Snooker",
-      "place": "Nanjing (Chine)",
+      "place": "South New City National Fitness Center, Nanjing (Chine)",
       "holder": "Wu Yize"
     },
     {
@@ -93,7 +93,14 @@
       "end": "2026-11-08",
       "name": "Coupe du monde de 3 bandes (UMB)",
       "sport": "Billard français",
-      "place": "Corée du Sud"
+      "place": "Yanggu (Corée du Sud)"
+    },
+    {
+      "start": "2026-11-04",
+      "end": "2026-11-05",
+      "name": "Players Championships 33 et 34 (fin du Pro Tour PDC)",
+      "sport": "Fléchettes",
+      "place": "Leicester Arena, Leicester"
     },
     {
       "start": "2026-11-06",
