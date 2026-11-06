@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "events": [
     {
       "start": "2026-10-09",
@@ -100,7 +100,8 @@
       "end": "2026-11-05",
       "name": "Players Championships 33 et 34 (fin du Pro Tour PDC)",
       "sport": "Fléchettes",
-      "place": "Leicester Arena, Leicester"
+      "place": "Mattioli Arena, Leicester",
+      "holder": "2026 : Luke Humphries (PC33) / Tommy Morris (PC34)"
     },
     {
       "start": "2026-11-06",
@@ -129,7 +130,7 @@
       "end": "2026-11-22",
       "name": "Grand Slam of Darts",
       "sport": "Fléchettes",
-      "place": "Wolverhampton",
+      "place": "WV Active Aldersley, Wolverhampton",
       "holder": "Luke Littler"
     },
     {
