@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "events": [
     {
       "start": "2026-10-09",
@@ -145,7 +145,7 @@
       "end": "2026-11-22",
       "name": "2e tournoi national de blackball (FFB)",
       "sport": "Billard anglais",
-      "place": "Albi (Tarn)"
+      "place": "Gymnase du COSEC, Albi (Tarn)"
     },
     {
       "start": "2026-11-27",
@@ -192,6 +192,13 @@
       "sport": "Fléchettes",
       "place": "Alexandra Palace, Londres",
       "holder": "Luke Littler"
+    },
+    {
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "name": "Open des Mines (AFEBAS)",
+      "sport": "Billard anglais",
+      "place": "Auchy-les-Mines (Pas-de-Calais)"
     },
     {
       "start": "2026-12-14",
