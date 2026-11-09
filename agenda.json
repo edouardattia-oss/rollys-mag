@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "events": [
     {
       "start": "2026-10-09",
@@ -93,7 +93,8 @@
       "end": "2026-11-08",
       "name": "Coupe du monde de 3 bandes (UMB)",
       "sport": "Billard français",
-      "place": "Yanggu Sports Town, Gangwon (Corée du Sud)"
+      "place": "Yanggu Sports Town, Gangwon (Corée du Sud)",
+      "holder": "2026 : Eddy Merckx"
     },
     {
       "start": "2026-11-04",
@@ -115,7 +116,7 @@
       "end": "2026-11-15",
       "name": "Champion of Champions",
       "sport": "Snooker",
-      "place": "Leicester",
+      "place": "Mattioli Arena, Leicester",
       "holder": "Mark Selby"
     },
     {
