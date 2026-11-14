@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "events": [
     {
       "start": "2026-10-09",
@@ -71,7 +71,7 @@
       "sport": "Fléchettes",
       "place": "Palais des Congrès, Remiremont (Vosges)",
       "url": "https://www.ffdarts.fr/calendrier",
-      "holder": "Nicolas Thuillier / Carole Monpoux"
+      "holder": "Nicolas Thuillier / Carole Monpoux — 2026 : Thibault Tricole / Carole Frison"
     },
     {
       "start": "2026-10-30",
@@ -178,6 +178,13 @@
       "sport": "Snooker",
       "place": "York Barbican, York (Angleterre)",
       "holder": "Mark Selby"
+    },
+    {
+      "start": "2026-11-30",
+      "end": "2026-11-30",
+      "name": "Qualification Tour Card Holder pour le Mondial PDC (4 places) et tirage",
+      "sport": "Fléchettes",
+      "place": "Lieu à confirmer"
     },
     {
       "start": "2026-12-09",
