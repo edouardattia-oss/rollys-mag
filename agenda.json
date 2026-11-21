@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "events": [
     {
       "start": "2026-10-09",
@@ -133,7 +133,7 @@
       "name": "Grand Slam of Darts",
       "sport": "Fléchettes",
       "place": "WV Active Aldersley, Wolverhampton",
-      "holder": "Luke Littler (vainqueur 2024 et 2025, éliminé en 8es en 2026) ; 200 000 £ au vainqueur, finale dim. 22 à 20 h 30 (Paris)"
+      "holder": "Luke Littler (vainqueur 2024 et 2025, éliminé en 8es en 2026) ; demie Price-Doets dim. 22, finale à 20 h 30 (Paris), 200 000 £ au vainqueur"
     },
     {
       "start": "2026-11-17",
@@ -147,7 +147,8 @@
       "end": "2026-11-22",
       "name": "2e tournoi national de blackball (FFB)",
       "sport": "Billard anglais",
-      "place": "Gymnase du COSEC, Albi (Tarn)"
+      "place": "Gymnase du COSEC, Albi (Tarn)",
+      "holder": "Finales sur Sport en France : Femmes sam. 21 à 11 h, Masters dim. 22 à 12 h (FFB)"
     },
     {
       "start": "2026-11-27",
